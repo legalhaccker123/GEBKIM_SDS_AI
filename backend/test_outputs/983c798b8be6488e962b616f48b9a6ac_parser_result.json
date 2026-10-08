@@ -1,0 +1,159 @@
+{
+  "file": "uploads\\983c798b8be6488e962b616f48b9a6ac.pdf",
+  "character_count": 28223,
+  "section_count": 15,
+  "section_numbers": [
+    1,
+    2,
+    3,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16
+  ],
+  "section_1": {
+    "product_name": null,
+    "manufacturer": null,
+    "cas_numbers": [],
+    "ec_number": null,
+    "reach_number": null,
+    "product_code": null,
+    "ufi": null
+  },
+  "section_2": {
+    "hazard_codes": [
+      "H315",
+      "H319",
+      "H290"
+    ],
+    "precautionary_codes": [
+      "P280",
+      "P351+P338",
+      "P313",
+      "P352"
+    ],
+    "signal_word": "Dikkat Zararlılık İfadeleri H290 - Metalleri aşındırabilirH315 - Cilt tahrişine yol açarH319 - Ciddi göz tahrişine yol açar Önlem İfadeleri - EU (§28, 1272/2008)P280 - Koruyucu eldiven/koruyucu kıyafet/göz koruyucu/yüz koruyucu kullanınP234 - Sadece orijinal kabında saklayınP305 + P351 + P338 - GÖZ İLE TEMASI HALİNDE: Su ile birkaç dakika dikkatlice durulayın. Takılı ve yapması kolaysa, kontak lensleri çıkartın. Durulamaya devam edinP332 + P313 - Ciltte tahriş söz konusu ise: Tıbbi yardım/müdahale alınP337 + P313 - Göz tahrişi kalıcı ise: Tıbbi yardım/bakım alınP302 + P352 - DERİ İLE TEMAS HALİNDE İSE: Bol sabun ve su ile yıkayın 2.3. Diğer zararlar Bu ürün, >= %0,1 konsantrasyonlarda kalıcı, biyobirikimli ve toksik (PBT) veya çok kalıcı ve çok biyobirikimli (vPvB) olarak kabul edilen hiçbir bileşen içermez. Endokrin Parçalayıcı Bilgiler Kimyasal ismi AB - REACH (1907/2006) - Madde 59(1) - İzin için Yüksek Önem Arz Eden Maddeler (SVHC) Aday Listesi AB - REACH (1907/2006) - Endokrin Bozucu Değerlendirme Maddeler Listesi Potasyum hidroksit - - Kimyasal ismi Komisyonun Delege Ettiği Düzenleme (AB) 2017/2100(3) veya Komisyon Düzenlemesi (AB) 2018/605 (4)'te belirtilen kriterlere uygun olarak endokrin bozucu özellikler Potasyum hidroksit -",
+    "ghs_codes": [
+      "GHS07"
+    ]
+  },
+  "section_3": {
+    "cas_numbers": [
+      "1310-58-3",
+      "002-00-8"
+    ],
+    "ec_numbers": [],
+    "reach_numbers": [],
+    "component_names": [],
+    "ec_number": null,
+    "reach_number": null
+  },
+  "section_7": {
+    "handling_precautions": [],
+    "storage_conditions": [],
+    "incompatible_materials": [],
+    "fire_explosion_precautions": [],
+    "specific_end_use": null,
+    "raw_subsection_7_1": null,
+    "raw_subsection_7_2": null,
+    "raw_subsection_7_3": null
+  },
+  "section_8": {
+    "respiratory_protection": [],
+    "hand_protection": [],
+    "glove_materials": [],
+    "glove_thickness": [],
+    "eye_face_protection": [],
+    "body_protection": [],
+    "engineering_controls": [],
+    "exposure_limits": [
+      "BÖLÜM 8: Maruz Kalma Kontrolleri/kişisel korunma 8.1. Kontrol parametreleri Maruz Kalma Limitleri Kimyasal ismi Avrupa Birliği Avusturya Belçika Bulgaristan Hırvatistan Potasyum hidroksit 1310-58-3 - TWA: 2 mg/m3 - TWA: 2.0 mg/m3 STEL: 2 mg/m3 Kimyasal ismi Kıbrıs Çek Cumhuriyeti Danimarka Estonya Finlandiya Potasyum hidroksit 1310-58-3 - TWA: 1 mg/m3 Ceiling: 2 mg/m3 Ceiling: 2 mg/m3 TWA: 2 mg/m3 Ceiling: 2 mg/m3 Kimyasal ismi Fransa Almanya Almanya MAK Yunanistan Macaristan Potasyum hidroksit 1310-58-3 STEL: 2 mg/m3 - - TWA: 2 mg/m3 STEL: 2 mg/m3 TWA: 2 mg/m3 STEL: 2 mg/m3 Kimyasal ismi İrlanda İtalya İtalya REL Letonya Litvanya Potasyum hidroksit 1310-58-3 STEL: 2 mg/m3 - Ceiling: 2 mg/m3 - - Kimyasal ismi Lüksemburg Malta Hollanda Norveç Polonya Potasyum hidroksit 1310-58-3 - - - Ceiling: 2 mg/m3 STEL: 1 mg/m3 TWA: 0.5 mg/m3 Kimyasal ismi Portekiz Romanya Slovakya Slovenya İspanya Potasyum hidroksit 1310-58-3 Ceiling: 2 mg/m3 TWA: 1 mg/m3 STEL: 3 mg/m3 - - STEL: 2 mg/m3 Kimyasal ismi İsveç İsviçre Birleşik Krallık Potasyum hidroksit 1310-58-3 NGV: 1 mg/m3 Bindande KGV: 2 mg/m3 TWA: 2 mg/m3 STEL: 2 mg/m3 Biyolojik mesleki maruziyet limitleri İlgili bilgi mevcut değil. İşçiler için DNELs Kimyasal ismi Akut - lokal etkiler Akut - sistemik etkiler Uzun süreli lokal etkiler Uzun süreli sistemik etkiler Potasyum hidroksit 1310-58-3 - - 1 mg/m3 (soluma) - Genel nüfus için DNELs - Kimyasal ismi Akut - lokal etkiler Akut - sistemik etkiler Uzun süreli lokal etkiler Uzun süreli sistemik etkiler Potasyum hidroksit 1310-58-3 - - 1 mg/m3 (soluma) - Öngörülen Etkisiz Konsantrasyon (PNEC) Kimyasal ismi Su Çökelti Toprak Kanalizasyon Arıtması Üzerindeki Etki Oral Potasyum hidroksit 1310-58-3 - - - - - _____________________________________________________________________________________________ Sayfa 5 / 13"
+    ],
+    "dnel": [
+      "BÖLÜM 8: Maruz Kalma Kontrolleri/kişisel korunma 8.1. Kontrol parametreleri Maruz Kalma Limitleri Kimyasal ismi Avrupa Birliği Avusturya Belçika Bulgaristan Hırvatistan Potasyum hidroksit 1310-58-3 - TWA: 2 mg/m3 - TWA: 2.0 mg/m3 STEL: 2 mg/m3 Kimyasal ismi Kıbrıs Çek Cumhuriyeti Danimarka Estonya Finlandiya Potasyum hidroksit 1310-58-3 - TWA: 1 mg/m3 Ceiling: 2 mg/m3 Ceiling: 2 mg/m3 TWA: 2 mg/m3 Ceiling: 2 mg/m3 Kimyasal ismi Fransa Almanya Almanya MAK Yunanistan Macaristan Potasyum hidroksit 1310-58-3 STEL: 2 mg/m3 - - TWA: 2 mg/m3 STEL: 2 mg/m3 TWA: 2 mg/m3 STEL: 2 mg/m3 Kimyasal ismi İrlanda İtalya İtalya REL Letonya Litvanya Potasyum hidroksit 1310-58-3 STEL: 2 mg/m3 - Ceiling: 2 mg/m3 - - Kimyasal ismi Lüksemburg Malta Hollanda Norveç Polonya Potasyum hidroksit 1310-58-3 - - - Ceiling: 2 mg/m3 STEL: 1 mg/m3 TWA: 0.5 mg/m3 Kimyasal ismi Portekiz Romanya Slovakya Slovenya İspanya Potasyum hidroksit 1310-58-3 Ceiling: 2 mg/m3 TWA: 1 mg/m3 STEL: 3 mg/m3 - - STEL: 2 mg/m3 Kimyasal ismi İsveç İsviçre Birleşik Krallık Potasyum hidroksit 1310-58-3 NGV: 1 mg/m3 Bindande KGV: 2 mg/m3 TWA: 2 mg/m3 STEL: 2 mg/m3 Biyolojik mesleki maruziyet limitleri İlgili bilgi mevcut değil. İşçiler için DNELs Kimyasal ismi Akut - lokal etkiler Akut - sistemik etkiler Uzun süreli lokal etkiler Uzun süreli sistemik etkiler Potasyum hidroksit 1310-58-3 - - 1 mg/m3 (soluma) - Genel nüfus için DNELs - Kimyasal ismi Akut - lokal etkiler Akut - sistemik etkiler Uzun süreli lokal etkiler Uzun süreli sistemik etkiler Potasyum hidroksit 1310-58-3 - - 1 mg/m3 (soluma) - Öngörülen Etkisiz Konsantrasyon (PNEC) Kimyasal ismi Su Çökelti Toprak Kanalizasyon Arıtması Üzerindeki Etki Oral Potasyum hidroksit 1310-58-3 - - - - - _____________________________________________________________________________________________ Sayfa 5 / 13"
+    ],
+    "pnec": [
+      "BÖLÜM 8: Maruz Kalma Kontrolleri/kişisel korunma 8.1. Kontrol parametreleri Maruz Kalma Limitleri Kimyasal ismi Avrupa Birliği Avusturya Belçika Bulgaristan Hırvatistan Potasyum hidroksit 1310-58-3 - TWA: 2 mg/m3 - TWA: 2.0 mg/m3 STEL: 2 mg/m3 Kimyasal ismi Kıbrıs Çek Cumhuriyeti Danimarka Estonya Finlandiya Potasyum hidroksit 1310-58-3 - TWA: 1 mg/m3 Ceiling: 2 mg/m3 Ceiling: 2 mg/m3 TWA: 2 mg/m3 Ceiling: 2 mg/m3 Kimyasal ismi Fransa Almanya Almanya MAK Yunanistan Macaristan Potasyum hidroksit 1310-58-3 STEL: 2 mg/m3 - - TWA: 2 mg/m3 STEL: 2 mg/m3 TWA: 2 mg/m3 STEL: 2 mg/m3 Kimyasal ismi İrlanda İtalya İtalya REL Letonya Litvanya Potasyum hidroksit 1310-58-3 STEL: 2 mg/m3 - Ceiling: 2 mg/m3 - - Kimyasal ismi Lüksemburg Malta Hollanda Norveç Polonya Potasyum hidroksit 1310-58-3 - - - Ceiling: 2 mg/m3 STEL: 1 mg/m3 TWA: 0.5 mg/m3 Kimyasal ismi Portekiz Romanya Slovakya Slovenya İspanya Potasyum hidroksit 1310-58-3 Ceiling: 2 mg/m3 TWA: 1 mg/m3 STEL: 3 mg/m3 - - STEL: 2 mg/m3 Kimyasal ismi İsveç İsviçre Birleşik Krallık Potasyum hidroksit 1310-58-3 NGV: 1 mg/m3 Bindande KGV: 2 mg/m3 TWA: 2 mg/m3 STEL: 2 mg/m3 Biyolojik mesleki maruziyet limitleri İlgili bilgi mevcut değil. İşçiler için DNELs Kimyasal ismi Akut - lokal etkiler Akut - sistemik etkiler Uzun süreli lokal etkiler Uzun süreli sistemik etkiler Potasyum hidroksit 1310-58-3 - - 1 mg/m3 (soluma) - Genel nüfus için DNELs - Kimyasal ismi Akut - lokal etkiler Akut - sistemik etkiler Uzun süreli lokal etkiler Uzun süreli sistemik etkiler Potasyum hidroksit 1310-58-3 - - 1 mg/m3 (soluma) - Öngörülen Etkisiz Konsantrasyon (PNEC) Kimyasal ismi Su Çökelti Toprak Kanalizasyon Arıtması Üzerindeki Etki Oral Potasyum hidroksit 1310-58-3 - - - - - _____________________________________________________________________________________________ Sayfa 5 / 13"
+    ],
+    "hygiene_measures": [
+      "_____________________________________________________________________________________________ BK2307 - Potassium tripolyphosphate, solution 50%, low iron Revizyon tarihi 15-Tem-2021 8.2. Maruz kalma kontrolleri Mühendislik kontrolleri Göz yıkama istasyonlarıDuşlarHavalandırma sistemleri Kişisel koruyucu ekipman Göz/yüz koruması Sıçramaların meydana gelmesi muhtemelse, yanlarında koruma kalkanı olan emniyet gözlükleri takın. Solunum koruması Normal kullanma koşulları altında koruyucu ekipmana gerek yoktur. Maruz kalma limitleri aşılmışsa ya da bir tahriş meydana gelmişse, havalandırma ve boşaltma gerekebilir Ellerin korunması Sızdırmayan eldivenlerUygun eldiven giyin Cildin ve vücudun korunması Uzun kollu giysiler. Uygun koruyucu giysi giyin. Genel hijyen hususları Ciltle, gözlerle veya giysilerle temas etmesinden kaçının. Elleçlemeden sonra ile iyice yıkayın. Uygun koruyucu eldiven, koruyucu gözlük/maske kullanın uygun eldivenler ve gözlük/yüz koruyucu kullanın. Bu ürünü kullanırken hiçbir şey yemeyin, içmeyin veya sigara içmeyin."
+    ]
+  },
+  "section_9": {
+    "physical_state": null,
+    "color": null,
+    "odor": null,
+    "ph": null,
+    "melting_freezing_point": null,
+    "boiling_point": null,
+    "flash_point": null,
+    "vapour_pressure": null,
+    "density": null,
+    "viscosity": null,
+    "solubility": null,
+    "flammability": null,
+    "explosive_properties": null,
+    "oxidising_properties": null,
+    "lower_explosion_limit": null,
+    "upper_explosion_limit": null
+  },
+  "revision": {
+    "preparation_date": null,
+    "revision_date": null,
+    "version": null
+  },
+  "ingestion_summary": {
+    "is_probable_sds": true,
+    "sds_confidence": 1.0,
+    "parsed_data": {
+      "product_name": "983c798b8be6488e962b616f48b9a6ac",
+      "product_name_source": "filename_fallback",
+      "manufacturer": "BK Giulini GmbH Dr.-A.-Reimann-Str. 2 D-68526 Ladenburg, Germany www.icl-group.com Tel: +49 6203 / 77-0 Fax: +49 620377-7256 e-mail: msdsinfo@icl-group.com",
+      "cas_numbers": [
+        "1310-58-3"
+      ],
+      "ec_number": null,
+      "reach_number": null,
+      "product_code": null,
+      "ufi": null,
+      "component_names": [],
+      "classification_status": "classified",
+      "hazard_codes": [
+        "H315",
+        "H319",
+        "H290"
+      ],
+      "precautionary_codes": [
+        "P280",
+        "P351+338",
+        "P313",
+        "P352"
+      ],
+      "signal_word": "Dikkat Zararlılık İfadeleri H290 - Metalleri aşındırabilirH315 - Cilt tahrişine yol açarH319 - Ciddi göz tahrişine yol açar Önlem İfadeleri - EU (§28, 1272/2008)P280 - Koruyucu eldiven/koruyucu kıyafet/göz koruyucu/yüz koruyucu kullanınP234 - Sadece orijinal kabında saklayınP305 + P351 + P338 - GÖZ İLE TEMASI HALİNDE: Su ile birkaç dakika dikkatlice durulayın. Takılı ve yapması kolaysa, kontak lensleri çıkartın. Durulamaya devam edinP332 + P313 - Ciltte tahriş söz konusu ise: Tıbbi yardım/müdahale alınP337 + P313 - Göz tahrişi kalıcı ise: Tıbbi yardım/bakım alınP302 + P352 - DERİ İLE TEMAS HALİNDE İSE: Bol sabun ve su ile yıkayın 2.3. Diğer zararlar Bu ürün, >= %0,1 konsantrasyonlarda kalıcı, biyobirikimli ve toksik (PBT) veya çok kalıcı ve çok biyobirikimli (vPvB) olarak kabul edilen hiçbir bileşen içermez. Endokrin Parçalayıcı Bilgiler Kimyasal ismi AB - REACH (1907/2006) - Madde 59(1) - İzin için Yüksek Önem Arz Eden Maddeler (SVHC) Aday Listesi AB - REACH (1907/2006) - Endokrin Bozucu Değerlendirme Maddeler Listesi Potasyum hidroksit - - Kimyasal ismi Komisyonun Delege Ettiği Düzenleme (AB) 2017/2100(3) veya Komisyon Düzenlemesi (AB) 2018/605 (4)'te belirtilen kriterlere uygun olarak endokrin bozucu özellikler Potasyum hidroksit -",
+      "ghs_codes": [
+        "GHS07",
+        "GHS05"
+      ],
+      "component_hazard_codes": [
+        "H290",
+        "H302",
+        "H314",
+        "H318"
+      ]
+    },
+    "needs_review": true,
+    "review_reasons": [
+      "product_name_needs_review",
+      "ppe_data_missing",
+      "physical_properties_incomplete"
+    ]
+  }
+}

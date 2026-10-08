@@ -1,0 +1,281 @@
+{
+  "file": "/Users/noz/Downloads/GEBKIM_SDS_PRO/backend/uploads/983c798b8be6488e962b616f48b9a6ac.pdf",
+  "character_count": 25914,
+  "section_count": 16,
+  "section_numbers": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16
+  ],
+  "section_1": {
+    "product_name": "Potassium tripolyphosphate, solution 50%, low iron",
+    "manufacturer": null,
+    "cas_numbers": [],
+    "ec_number": null,
+    "reach_number": null,
+    "product_code": "BK2307",
+    "ufi": "V873-MN1G-R608-8F3C; F2D6-U05E-800G-VATG"
+  },
+  "section_2": {
+    "hazard_codes": [
+      "H315",
+      "H319",
+      "H290"
+    ],
+    "precautionary_codes": [
+      "P280",
+      "P234",
+      "P305+P351+P338",
+      "P332+P313",
+      "P337+P313",
+      "P302+P352"
+    ],
+    "signal_word": "Dikkat",
+    "ghs_codes": []
+  },
+  "section_3": {
+    "cas_numbers": [
+      "1310-58-3"
+    ],
+    "ec_numbers": [],
+    "reach_numbers": [],
+    "component_names": [],
+    "ec_number": null,
+    "reach_number": null
+  },
+  "section_7": {
+    "handling_precautions": [
+      "Kirlenmiş giysilerinizi çıkarın ve yeniden kullanmadan önce yıkayın. İyi endüstriyel hijyen ve güvenlik uygulamalarına göre elleçleyin. Ciltle, gözlerle veya giysilerle temas etmesinden kaçının. Bu ürünü kullanırken hiçbir şey yemeyin, içmeyin veya sigara içmeyin.",
+      "Ciltle, gözlerle veya giysilerle temas etmesinden kaçının. Elleçlemeden sonra ile iyice yıkayın. Uygun koruyucu eldiven, koruyucu gözlük/maske kullanın uygun eldivenler ve gözlük/yüz koruyucu kullanın. Bu ürünü kullanırken hiçbir şey yemeyin, içmeyin veya sigara içmeyin."
+    ],
+    "storage_conditions": [
+      "Kapları kuru, serin ve iyi havalandırılan bir yerde ağzı sıkıca kapalı olarak muhafaza edin. Hafif alaşımlı kaplar kullanmayın.",
+      "Depolama sınıfı 12 - Yukarıdaki depolama sınıflarından herhangi birine atanamayan yanmaz sıvılar"
+    ],
+    "incompatible_materials": [],
+    "fire_explosion_precautions": [],
+    "specific_end_use": "Belirli bir gereklilik yoktur.",
+    "raw_subsection_7_1": "7.1.\nGüvenli\nelleçleme için önlemler\nGüvenli\nelleçleme için tavsiye Kirlenmiş giysilerinizi çıkarın ve yeniden kullanmadan önce yıkayın. İyi endüstriyel hijyen ve güvenlik uygulamalarına göre elleçleyin. Ciltle, gözlerle veya giysilerle temas etmesinden kaçının. Bu ürünü kullanırken hiçbir şey yemeyin, içmeyin veya sigara içmeyin. Genel hijyen hususları Ciltle, gözlerle veya giysilerle temas etmesinden kaçının. Elleçlemeden sonra ile iyice yıkayın. Uygun koruyucu eldiven, koruyucu gözlük/maske kullanın uygun eldivenler ve gözlük/yüz koruyucu kullanın. Bu ürünü kullanırken hiçbir şey yemeyin, içmeyin veya sigara içmeyin.",
+    "raw_subsection_7_2": "7.2. Uyuşmazlıkları da içeren\ngüvenli\ndepolama için koşullar\nDepolama Koşulları Kapları kuru, serin ve iyi havalandırılan bir yerde ağzı sıkıca kapalı olarak muhafaza edin. Hafif alaşımlı kaplar kullanmayın. Alman\ndepolama sınıfı (TRGS 510)\nDepolama sınıfı 12 - Yukarıdaki\ndepolama sınıflarından herhangi birine atanamayan yanmaz sıvılar\nSayfa 4 / 13",
+    "raw_subsection_7_3": "7.3. Belirli son kullanım(lar)\n--- PAGE 5 ---\n\nBK2307 - Potassium tripolyphosphate, solution 50%, low iron\nRevizyon tarihi 15-Tem-2021 Spesifik kullanım(lar) Belirli bir gereklilik yoktur. Tanımlanan Kullanımlar Risk Yönetim Yöntemleri (RMM) Gerekli bilgi bu Güvenlik Bilgi Formunda yer almaktadır."
+  },
+  "section_8": {
+    "respiratory_protection": [
+      "Normal kullanma koşulları altında koruyucu ekipmana gerek yoktur.",
+      "Maruz kalma limitleri aşılmışsa ya da bir tahriş meydana gelmişse, havalandırma ve boşaltma gerekebilir"
+    ],
+    "hand_protection": [
+      "Sızdırmayan eldivenler Uygun eldiven giyin"
+    ],
+    "glove_materials": [],
+    "glove_thickness": [],
+    "eye_face_protection": [
+      "Sıçramaların meydana gelmesi muhtemelse, yanlarında koruma kalkanı olan emniyet gözlükleri takın."
+    ],
+    "body_protection": [
+      "Uzun kollu giysiler.",
+      "Uygun koruyucu giysi giyin."
+    ],
+    "engineering_controls": [
+      "Göz yıkama istasyonları Duşlar Havalandırma sistemleri Kişisel koruyucu ekipman"
+    ],
+    "exposure_limits": [
+      "Maruz Kalma Limitleri Kimyasal ismi Avrupa Birliği Avusturya Belçika Bulgaristan Hırvatistan Potasyum hidroksit 1310-58-3 - TWA: 2 mg/m3 - TWA",
+      "2.0 mg/m3 STEL: 2 mg/m3 Kimyasal ismi Kıbrıs Çek Cumhuriyeti Danimarka Estonya Finlandiya Potasyum hidroksit 1310-58-3 - TWA: 1 mg/m3 Ceiling: 2 mg/m3 Ceiling: 2 mg/m3 TWA: 2 mg/m3 Ceiling: 2 mg/m3 Kimyasal ismi Fransa Almanya Almanya MAK Yunanistan Macaristan Potasyum hidroksit 1310-58-3 STEL: 2 mg/m3 - - TWA: 2 mg/m3 STEL: 2 mg/m3 TWA: 2 mg/m3 STEL: 2 mg/m3 Kimyasal ismi İrlanda İtalya İtalya REL Letonya Litvanya Potasyum hidroksit 1310-58-3 STEL: 2 mg/m3 - Ceiling: 2 mg/m3 - - Kimyasal ismi Lüksemburg Malta Hollanda Norveç Polonya Potasyum hidroksit 1310-58-3 - - - Ceiling: 2 mg/m3 STEL: 1 mg/m3 TWA: 0.5 mg/m3 Kimyasal ismi Portekiz Romanya Slovakya Slovenya İspanya Potasyum hidroksit 1310-58-3 Ceiling: 2 mg/m3 TWA: 1 mg/m3 STEL: 3 mg/m3 - - STEL: 2 mg/m3 Kimyasal ismi İsveç İsviçre Birleşik Krallık Potasyum hidroksit 1310-58-3 NGV: 1 mg/m3 Bindande KGV: 2 mg/m3 TWA: 2 mg/m3 STEL: 2 mg/m3 Biyolojik",
+      "mesleki maruziyet limitleri İlgili bilgi mevcut değil."
+    ],
+    "dnel": [
+      "İşçiler için DNELs Kimyasal ismi Akut - lokal etkiler Akut - sistemik etkiler Uzun süreli lokal etkiler Uzun süreli sistemik etkiler Potasyum hidroksit 1310-58-3 - - 1 mg/m3 (soluma)",
+      "Genel nüfus için DNELs - Kimyasal ismi Akut - lokal etkiler Akut - sistemik etkiler Uzun süreli lokal etkiler Uzun süreli sistemik etkiler Potasyum hidroksit 1310-58-3 - - 1 mg/m3 (soluma)"
+    ],
+    "pnec": [
+      "Öngörülen Etkisiz Konsantrasyon (PNEC) Kimyasal ismi Su Çökelti Toprak Kanalizasyon Arıtması Üzerindeki Etki Oral Potasyum hidroksit 1310-58-3"
+    ],
+    "hygiene_measures": [
+      "Ciltle, gözlerle veya giysilerle temas etmesinden kaçının.",
+      "Elleçlemeden sonra ile iyice yıkayın.",
+      "Uygun koruyucu eldiven, koruyucu gözlük/maske kullanın uygun eldivenler ve gözlük/yüz koruyucu kullanın.",
+      "Bu ürünü kullanırken hiçbir şey yemeyin, içmeyin veya sigara içmeyin."
+    ]
+  },
+  "section_9": {
+    "physical_state": "Sıvı",
+    "color": "renksiz",
+    "odor": "Kokusuz.",
+    "ph": "~11.4",
+    "melting_freezing_point": "< 0",
+    "boiling_point": "> 100 °C",
+    "flash_point": "Mevcut veri yok Uygulanamaz",
+    "vapour_pressure": "23hPa (20°C)",
+    "density": "1.56 g/cm3",
+    "viscosity": "Mevcut veri yok",
+    "solubility": "Tamamen karışabilir",
+    "flammability": "Mevcut veri yok",
+    "explosive_properties": null,
+    "oxidising_properties": null,
+    "lower_explosion_limit": "Mevcut veri yok",
+    "upper_explosion_limit": "Mevcut veri yok"
+  },
+  "revision": {
+    "preparation_date": null,
+    "revision_date": "2021-07-15",
+    "version": "3"
+  },
+  "ingestion_summary": {
+    "is_probable_sds": true,
+    "sds_confidence": 1.0,
+    "section_count": 16,
+    "section_numbers": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16
+    ],
+    "parsed_data": {
+      "product_name": "Potassium tripolyphosphate, solution 50%, low iron",
+      "product_name_source": "section_1",
+      "manufacturer": "BK Giulini GmbH Dr.-A.-Reimann-Str. 2 D-68526 Ladenburg, Germany www.icl-group.com Tel: +49 6203 / 77-0 Fax: +49 620377-7256 e-mail: msdsinfo@icl-group.com",
+      "cas_numbers": [],
+      "ec_number": null,
+      "reach_number": null,
+      "product_code": "BK2307",
+      "ufi": "V873-MN1G-R608-8F3C; F2D6-U05E-800G-VATG",
+      "component_cas_numbers": [
+        "1310-58-3"
+      ],
+      "component_ec_numbers": [],
+      "component_reach_numbers": [],
+      "component_names": [],
+      "classification_status": "classified",
+      "hazard_codes": [
+        "H315",
+        "H319",
+        "H290"
+      ],
+      "precautionary_codes": [
+        "P280",
+        "P234",
+        "P305+P351+P338",
+        "P332+P313",
+        "P337+P313",
+        "P302+P352"
+      ],
+      "signal_word": "Dikkat",
+      "ghs_codes": [
+        "GHS07",
+        "GHS05"
+      ],
+      "component_hazard_codes": [
+        "H290",
+        "H302",
+        "H314",
+        "H318"
+      ]
+    },
+    "section_7_data": {
+      "handling_precautions": [
+        "Kirlenmiş giysilerinizi çıkarın ve yeniden kullanmadan önce yıkayın. İyi endüstriyel hijyen ve güvenlik uygulamalarına göre elleçleyin. Ciltle, gözlerle veya giysilerle temas etmesinden kaçının. Bu ürünü kullanırken hiçbir şey yemeyin, içmeyin veya sigara içmeyin.",
+        "Ciltle, gözlerle veya giysilerle temas etmesinden kaçının. Elleçlemeden sonra ile iyice yıkayın. Uygun koruyucu eldiven, koruyucu gözlük/maske kullanın uygun eldivenler ve gözlük/yüz koruyucu kullanın. Bu ürünü kullanırken hiçbir şey yemeyin, içmeyin veya sigara içmeyin."
+      ],
+      "storage_conditions": [
+        "Kapları kuru, serin ve iyi havalandırılan bir yerde ağzı sıkıca kapalı olarak muhafaza edin. Hafif alaşımlı kaplar kullanmayın.",
+        "Depolama sınıfı 12 - Yukarıdaki depolama sınıflarından herhangi birine atanamayan yanmaz sıvılar"
+      ],
+      "incompatible_materials": [],
+      "fire_explosion_precautions": [],
+      "specific_end_use": "Belirli bir gereklilik yoktur.",
+      "raw_subsection_7_1": "7.1.\nGüvenli\nelleçleme için önlemler\nGüvenli\nelleçleme için tavsiye Kirlenmiş giysilerinizi çıkarın ve yeniden kullanmadan önce yıkayın. İyi endüstriyel hijyen ve güvenlik uygulamalarına göre elleçleyin. Ciltle, gözlerle veya giysilerle temas etmesinden kaçının. Bu ürünü kullanırken hiçbir şey yemeyin, içmeyin veya sigara içmeyin. Genel hijyen hususları Ciltle, gözlerle veya giysilerle temas etmesinden kaçının. Elleçlemeden sonra ile iyice yıkayın. Uygun koruyucu eldiven, koruyucu gözlük/maske kullanın uygun eldivenler ve gözlük/yüz koruyucu kullanın. Bu ürünü kullanırken hiçbir şey yemeyin, içmeyin veya sigara içmeyin.",
+      "raw_subsection_7_2": "7.2. Uyuşmazlıkları da içeren\ngüvenli\ndepolama için koşullar\nDepolama Koşulları Kapları kuru, serin ve iyi havalandırılan bir yerde ağzı sıkıca kapalı olarak muhafaza edin. Hafif alaşımlı kaplar kullanmayın. Alman\ndepolama sınıfı (TRGS 510)\nDepolama sınıfı 12 - Yukarıdaki\ndepolama sınıflarından herhangi birine atanamayan yanmaz sıvılar\nSayfa 4 / 13",
+      "raw_subsection_7_3": "7.3. Belirli son kullanım(lar)\n--- PAGE 5 ---\n\nBK2307 - Potassium tripolyphosphate, solution 50%, low iron\nRevizyon tarihi 15-Tem-2021 Spesifik kullanım(lar) Belirli bir gereklilik yoktur. Tanımlanan Kullanımlar Risk Yönetim Yöntemleri (RMM) Gerekli bilgi bu Güvenlik Bilgi Formunda yer almaktadır."
+    },
+    "section_8_data": {
+      "respiratory_protection": [
+        "Normal kullanma koşulları altında koruyucu ekipmana gerek yoktur.",
+        "Maruz kalma limitleri aşılmışsa ya da bir tahriş meydana gelmişse, havalandırma ve boşaltma gerekebilir"
+      ],
+      "hand_protection": [
+        "Sızdırmayan eldivenler Uygun eldiven giyin"
+      ],
+      "glove_materials": [],
+      "glove_thickness": [],
+      "eye_face_protection": [
+        "Sıçramaların meydana gelmesi muhtemelse, yanlarında koruma kalkanı olan emniyet gözlükleri takın."
+      ],
+      "body_protection": [
+        "Uzun kollu giysiler.",
+        "Uygun koruyucu giysi giyin."
+      ],
+      "engineering_controls": [
+        "Göz yıkama istasyonları Duşlar Havalandırma sistemleri Kişisel koruyucu ekipman"
+      ],
+      "exposure_limits": [
+        "Maruz Kalma Limitleri Kimyasal ismi Avrupa Birliği Avusturya Belçika Bulgaristan Hırvatistan Potasyum hidroksit 1310-58-3 - TWA: 2 mg/m3 - TWA",
+        "2.0 mg/m3 STEL: 2 mg/m3 Kimyasal ismi Kıbrıs Çek Cumhuriyeti Danimarka Estonya Finlandiya Potasyum hidroksit 1310-58-3 - TWA: 1 mg/m3 Ceiling: 2 mg/m3 Ceiling: 2 mg/m3 TWA: 2 mg/m3 Ceiling: 2 mg/m3 Kimyasal ismi Fransa Almanya Almanya MAK Yunanistan Macaristan Potasyum hidroksit 1310-58-3 STEL: 2 mg/m3 - - TWA: 2 mg/m3 STEL: 2 mg/m3 TWA: 2 mg/m3 STEL: 2 mg/m3 Kimyasal ismi İrlanda İtalya İtalya REL Letonya Litvanya Potasyum hidroksit 1310-58-3 STEL: 2 mg/m3 - Ceiling: 2 mg/m3 - - Kimyasal ismi Lüksemburg Malta Hollanda Norveç Polonya Potasyum hidroksit 1310-58-3 - - - Ceiling: 2 mg/m3 STEL: 1 mg/m3 TWA: 0.5 mg/m3 Kimyasal ismi Portekiz Romanya Slovakya Slovenya İspanya Potasyum hidroksit 1310-58-3 Ceiling: 2 mg/m3 TWA: 1 mg/m3 STEL: 3 mg/m3 - - STEL: 2 mg/m3 Kimyasal ismi İsveç İsviçre Birleşik Krallık Potasyum hidroksit 1310-58-3 NGV: 1 mg/m3 Bindande KGV: 2 mg/m3 TWA: 2 mg/m3 STEL: 2 mg/m3 Biyolojik",
+        "mesleki maruziyet limitleri İlgili bilgi mevcut değil."
+      ],
+      "dnel": [
+        "İşçiler için DNELs Kimyasal ismi Akut - lokal etkiler Akut - sistemik etkiler Uzun süreli lokal etkiler Uzun süreli sistemik etkiler Potasyum hidroksit 1310-58-3 - - 1 mg/m3 (soluma)",
+        "Genel nüfus için DNELs - Kimyasal ismi Akut - lokal etkiler Akut - sistemik etkiler Uzun süreli lokal etkiler Uzun süreli sistemik etkiler Potasyum hidroksit 1310-58-3 - - 1 mg/m3 (soluma)"
+      ],
+      "pnec": [
+        "Öngörülen Etkisiz Konsantrasyon (PNEC) Kimyasal ismi Su Çökelti Toprak Kanalizasyon Arıtması Üzerindeki Etki Oral Potasyum hidroksit 1310-58-3"
+      ],
+      "hygiene_measures": [
+        "Ciltle, gözlerle veya giysilerle temas etmesinden kaçının.",
+        "Elleçlemeden sonra ile iyice yıkayın.",
+        "Uygun koruyucu eldiven, koruyucu gözlük/maske kullanın uygun eldivenler ve gözlük/yüz koruyucu kullanın.",
+        "Bu ürünü kullanırken hiçbir şey yemeyin, içmeyin veya sigara içmeyin."
+      ]
+    },
+    "section_9_data": {
+      "physical_state": "Sıvı",
+      "color": "renksiz",
+      "odor": "Kokusuz.",
+      "ph": "~11.4",
+      "melting_freezing_point": "< 0",
+      "boiling_point": "> 100 °C",
+      "flash_point": "Mevcut veri yok Uygulanamaz",
+      "vapour_pressure": "23hPa (20°C)",
+      "density": "1.56 g/cm3",
+      "viscosity": "Mevcut veri yok",
+      "solubility": "Tamamen karışabilir",
+      "flammability": "Mevcut veri yok",
+      "explosive_properties": null,
+      "oxidising_properties": null,
+      "lower_explosion_limit": "Mevcut veri yok",
+      "upper_explosion_limit": "Mevcut veri yok"
+    },
+    "revision_data": {
+      "preparation_date": null,
+      "revision_date": "2021-07-15",
+      "version": "3"
+    },
+    "needs_review": false,
+    "review_reasons": []
+  }
+}
