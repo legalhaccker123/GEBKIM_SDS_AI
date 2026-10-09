@@ -15,7 +15,10 @@ APP_URL = f"http://{HOST}:{PORT}"
 
 def open_browser():
     time.sleep(1.5)
-    webbrowser.open(APP_URL)
+
+    webbrowser.open(
+        APP_URL
+    )
 
 
 def main():
@@ -31,7 +34,15 @@ def main():
         host=HOST,
         port=PORT,
         reload=False,
-        log_level="info",
+
+        # PyInstaller windowed EXE'de
+        # stdout/stderr terminali bulunmadığı için
+        # Uvicorn'un varsayılan terminal logging
+        # yapılandırmasını devre dışı bırakıyoruz.
+        log_config=None,
+
+        # Windowed EXE için access log gerekli değil.
+        access_log=False,
     )
 
 
