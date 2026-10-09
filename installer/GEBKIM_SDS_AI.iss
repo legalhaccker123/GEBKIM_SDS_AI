@@ -9,7 +9,12 @@ AppName={#MyAppName}
 AppVersion={#MyAppVersion}
 AppPublisher={#MyAppPublisher}
 
-DefaultDirName={autopf}\GEBKIM SDS AI
+; Admin gerektirmeyen kullanıcı bazlı kurulum
+PrivilegesRequired=lowest
+PrivilegesRequiredOverridesAllowed=dialog
+
+; Program Files yerine kullanıcının kendi alanına kurulur
+DefaultDirName={localappdata}\Programs\GEBKIM SDS AI
 DefaultGroupName=GEBKIM SDS AI
 
 OutputDir=output
@@ -18,7 +23,6 @@ OutputBaseFilename=GEBKIM_SDS_AI_Setup
 Compression=lzma2
 SolidCompression=yes
 
-PrivilegesRequired=admin
 ArchitecturesAllowed=x64compatible
 ArchitecturesInstallIn64BitMode=x64compatible
 
